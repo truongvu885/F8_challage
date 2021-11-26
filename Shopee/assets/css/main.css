@@ -1,0 +1,14 @@
+.header__navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__navbar-list {
+    display: flex;
+}
+
+.header__navbar-items {
+    flex: 1;
+    min-width: fit-content;
+    padding: 0 16px;
+}
